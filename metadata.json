@@ -1,0 +1,8 @@
+{
+  "name": "NATIVA | Evento de Lanzamiento y Productos Naturales",
+  "description": "Landing page oficial de NATIVA. Descubre el evento de lanzamiento, nuestra línea de productos artesanales y experiencias de bienestar natural.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
